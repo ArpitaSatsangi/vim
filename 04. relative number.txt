@@ -1,0 +1,7 @@
+:set relativenumber
+
+  2 qwertyuiop
+  1 OOOOOOOOO
+  0 asdfghjkl
+  1 zxcvbnm
+  2 1234567890

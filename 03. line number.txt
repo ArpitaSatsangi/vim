@@ -1,0 +1,17 @@
+vim text.txt
+
+:set number
+
+
+5 (up arrow) -> goes 5 lines up
+
+
+"jklh"
+
+j -> down
+k -> up
+l -> right
+h -> left
+
+4k -> four up
+5l -> five right

@@ -1,0 +1,1 @@
+:colorscheme (tab will give you many options)

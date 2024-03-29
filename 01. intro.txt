@@ -1,0 +1,10 @@
+arpita-satsangi@DESKTOP-NHSM9BG:~$ vi
+arpita-satsangi@DESKTOP-NHSM9BG:~$ vim
+
+
+"TO QUIT:- :q! (ENTER)"
+
+
+
+
+                                                                        ~                                                  VIM - Vi IMproved                                                    ~                                                                                                                       ~                                                   version 8.2.2121                                                    ~                                               by Bram Moolenaar et al.                                                ~                                       Modified by team+vim@tracker.debian.org                                         ~                                     Vim is open source and freely distributable                                       ~                                                                                                                       ~                                            Become a registered Vim user!                                              ~                                    type  :help register<Enter>   for information                                      ~                                                                                                                       ~                                    type  :q<Enter>               to exit                                              ~                                    type  :help<Enter>  or  <F1>  for on-line help                                     ~                                    type  :help version8<Enter>   for version info                                     ~                                                                                        

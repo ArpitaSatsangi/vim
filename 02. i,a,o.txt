@@ -1,0 +1,7 @@
+i -> inserting before cursor
+a -> inserting after cursor
+o -> inserting below in next line
+
+(shift i) I -> inserting in the beginning of line pointed by cursor
+(shift a) A -> inserting in the end of line pointed by cursor
+(shift o) O -> inserting above in next line

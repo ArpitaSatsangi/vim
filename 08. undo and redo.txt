@@ -1,0 +1,6 @@
+in normal mode:-
+
+undo -> u
+redo -> (Ctrl)r
+
+three times undo -> 3u

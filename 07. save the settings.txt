@@ -1,0 +1,15 @@
+vi ~/.vimrc
+
+(doesn't have this file, thus a new file will be created for configuration:-)
+
+set number
+set relativenumber
+set tabstop=4
+set autoindent
+set mouse=a
+colorscheme slate
+
+
+:wq
+
+(now this setting written in config files will be updated to each and eveytime you open a file using vim                             

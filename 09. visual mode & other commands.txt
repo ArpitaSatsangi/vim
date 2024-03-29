@@ -1,0 +1,27 @@
+vim text.txt
+
+
+enter "v" for visual mode
+
+
+
+in visual mode:-
+
+d -> deletion
+dd -> deletes the whole line
+shift d/D -> deltes rest of the line from cursor to end
+5dd -> deletes 5 lines
+y -> copying/yanking
+yy -> copy whole line
+p -> pasting below
+shift p / P -> pasting above 
+10p -> ten times paste it
+cc -> change the line (delete the contents of line but line is still there and now is in insert mode)
+shift c/C -> changes rest of the line
+
+r -> replace the character (eg:-"hello" press "r" then "j" => "jello")
+
+w -> jump to next word (separated by spaces or -)
+W -> jump to next words(separated by spaces)
+b -> jump to back word (separated by spaces or -)
+B -> jump to back word (separated by spaces)
