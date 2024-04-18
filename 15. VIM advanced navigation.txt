@@ -1,0 +1,8 @@
+In many cases, you will deal with large files which can contain thousands of lines. 
+To navigate the Vim cursor to line 3500 with the j key will take you a whole morning, 
+including your lunch break. Fortunately, Vim developers have equipped Vim with the g operator. 
+Here is how you use it:
+
+To get to the end of the file, hit G ( SHIFT+g ). To get to the beginning of the file, use gg command. 
+To navigate your cursor on n line, use nG. 
+If you are unsure how many lines your file has, you can use the CTRL+g key combination to see.
