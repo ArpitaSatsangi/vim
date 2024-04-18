@@ -9,6 +9,7 @@ in visual mode:-
 
 d -> deletion
 dd -> deletes the whole line
+dw -> delete the selected word
 shift d/D -> deltes rest of the line from cursor to end
 5dd -> deletes 5 lines
 y -> copying/yanking
