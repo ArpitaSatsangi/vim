@@ -1,0 +1,6 @@
+1. Paste command: Paste your cache memory with p command.
+(cut the word by using 'd' and then paste it by using 'p')
+2. Replace characters: r command will replace a character.
+Example: type rt to replace current character with “t”
+3. Change characters: ce command will change a single word. 
+c$ command will change to the end of the line
