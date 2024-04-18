@@ -1,0 +1,10 @@
+Character Deletion
+In this section, you will learn how to delete characters in the Vim command mode.
+To delete a character in Vim, you need to position your cursor on the character 
+you are intent to delete and press x. 
+Remember you need to be in the command mode! If unsure, press ESC key 
+and you will enter command mode. If you are already in command mode, 
+then pressing ESC again will not hurt.
+
+
+x
