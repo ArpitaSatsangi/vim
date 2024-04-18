@@ -1,0 +1,7 @@
+Deleting words: Delete word with d operator and w or e motion
+Deleting to the end of the line: d operator and $ motion
+Using operators, motions and counts: 0 for beginning of line, $ for end of line, 
+2e to end of the 2nd word, 4w to beginning of the 4th word
+Deleting multiple words: Delete 3 words with d3w command
+Deleting lines: Delete a single line with dd, or delete N lines with ndd
+Undo changes: Undo changes with u command
