@@ -1,0 +1,9 @@
+Navigating with Vim’s g operator is easy, but what if you do not know what line you need to edit? In this case, 
+Vim allows you to search for a given keyword or phrase. 
+You can use / or ? characters to search for keywords or phrases. 
+
+/edit will search for the key word “edit” in forward direction.
+
+In case you use ?edit, Vim will search for the key word “edit” in backward direction. 
+In case your text contains multiple instances of the keyword you are searching for, 
+keep pressing n key ( next ) or for backward search, use N ( SHIFT+n ) key combo.
